@@ -20,7 +20,7 @@ The objective of this project is to transform raw accident data into meaningful 
 
 ## Dashboard Preview
 
-![Uploading image.png…]()
+https://github.com/dharm98688/Road-Accident-Analysis-Dashboard-Excel/blob/main/Images/Road%20accident%20dashboard.png?raw=true
 
 
 
