@@ -20,7 +20,8 @@ The objective of this project is to transform raw accident data into meaningful 
 
 ## Dashboard Preview
 
-![Road Accident Dashboard](images/road_accident_dashboard.png)
+![Uploading image.png…]()
+
 
 ---
 
