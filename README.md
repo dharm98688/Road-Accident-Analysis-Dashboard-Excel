@@ -20,7 +20,8 @@ The objective of this project is to transform raw accident data into meaningful 
 
 ## Dashboard Preview
 
-<img width="1102" height="508" alt="image" src="https://github.com/user-attachments/assets/ca97675b-3d73-4f03-9fd0-2773d72afa58" />
+<img width="1648" height="721" alt="image" src="https://github.com/user-attachments/assets/b73cae61-10be-4cd3-9bd7-51bdcec6d86a" />
+
 
 
 
